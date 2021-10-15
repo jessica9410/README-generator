@@ -29,6 +29,9 @@ THEN a high-quality, professional README.md is generated with the title of my pr
  node.js, npm install
 ## Usage
 to generate professional README files by using node.js and installing npm into terminal 
+
+## Credits
+🔆https://www.youtube.com/watch?v=Pp9IG-prQjE
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-ff69b4)
 <br />
