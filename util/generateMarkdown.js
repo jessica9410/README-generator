@@ -1,6 +1,7 @@
 function generateMarkdown(answers) {
   return `
-![badge](https://img.shields.io/badge/license-${answers.license}-red)<br />
+  <h1 align="center">${answers.projectTitle} </h1>
+![badge](https://img.shields.io/badge/license-${answers.license}-ff69b4)<br />
 ## Description
  ${answers.description}
 ## Table of Contents
@@ -19,7 +20,7 @@ function generateMarkdown(answers) {
 ## Usage
 ${answers.usage}
 ## License
-![badge](https://img.shields.io/badge/license-${answers.license}-red)
+![badge](https://img.shields.io/badge/license-${answers.license}-ff69b4)
 <br />
 This application is covered by the ${answers.license} license. 
 ## Questions
