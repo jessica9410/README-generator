@@ -1,7 +1,5 @@
 
   ## README-generator
-  <h1 align="center">README-generator</h1>
-![badge](https://img.shields.io/badge/license-MIT-ff69b4)<br />
 
 ## Description
  A node.js application that uses user input from inquirer to generate a README.md file <br />
