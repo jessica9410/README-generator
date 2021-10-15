@@ -1,6 +1,6 @@
 
   ## README-generator
-![badge](https://img.shields.io/badge/license-${answers.license}-ff69b4)
+![badge](https://img.shields.io/badge/license-MIT-ff69b4)
 ## Description
  A node.js application that uses user input from inquirer to generate a README.md file <br />
 🔆GIVEN a command-line application that accepts user input
