@@ -45,6 +45,6 @@ This application is covered by the  license.
 
 ## Questions
 -----
- Find me on GitHub: [undefined](https://github.com/undefined)
+ Find me on GitHub:  [Jessicaga9410](https://github.com/Jessicaga9410)
 
 Email me with any questions: jessicaga941@gmail.com  
